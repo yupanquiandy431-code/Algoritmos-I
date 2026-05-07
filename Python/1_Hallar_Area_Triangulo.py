@@ -6,7 +6,6 @@ Leyendo su base y su altura, considerando el tipo de dato
 
 base=7
 altura=8
-area= (7*8)/2
+area= (7*8)
 print(f'El area del Triangulo es{float(area)}m2')
 
-# Definir variable, tipo de dato y i
